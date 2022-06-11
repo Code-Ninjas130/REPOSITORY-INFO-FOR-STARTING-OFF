@@ -34,3 +34,27 @@ you will then be met with this screen just keep clicking the refresh button unti
 **make sure to move the git hub files into it fully so that they are not in the preivous folder**
 
 ![image](https://blog.terresquall.com/wp-content/uploads/2020/04/moving-git-files-into-unity-project.jpg)
+
+**Now go back to Github Desktop and it should have this screen**
+
+![image](https://blog.terresquall.com/wp-content/uploads/2020/04/cant-find-git-repository.jpg)
+
+**click the locate button and then you must find the unity file they made and select it as the directory**
+**after that it should look roughply like this depending on how the project**
+
+![image](https://blog.terresquall.com/wp-content/uploads/2020/04/unity-git-repository.jpg)
+
+## Last touchups
+
+**You _MUST_ make sure that it is ignoring the Library, Logs and UserSettings**
+
+**if it's not you need to copy the gitignore file at the top of this page and paste it in the file in the project**
+
+## Final
+
+**You are gonna need to do your first commit YAY so you must title the commit and then commit to main or master depending on what is changing**
+![image](https://blog.terresquall.com/wp-content/uploads/2020/04/commit-in-github.jpg)
+
+**then bang you you posted it to github Nice job have a cookie**
+
+![image](https://pngimg.com/uploads/cookie/cookie_PNG13656.png)
