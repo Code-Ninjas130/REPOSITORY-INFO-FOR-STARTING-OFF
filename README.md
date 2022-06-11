@@ -20,4 +20,4 @@ you will then be met with this screen just keep clicking the refresh button unti
 **if it is not installed on the pc already this [link](https://desktop.github.com/) will direct you to the website for the download**
 
 **Once in Github desktop you will need to log in to their github account on their and then create a new respository**
-![image]()
+![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/2022-06-11%20(5).png)
