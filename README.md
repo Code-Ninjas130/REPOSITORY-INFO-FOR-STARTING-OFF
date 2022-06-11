@@ -18,3 +18,6 @@ you will then be met with this screen just keep clicking the refresh button unti
 ## For the nest steps you need to have Github desktop installed
 
 **if it is not installed on the pc already this [link](https://desktop.github.com/) will direct you to the website for the download**
+
+**Once in Github desktop you will need to log in to their github account on their and then create a new respository**
+![image]()
