@@ -4,7 +4,7 @@
 
 **first your ninja needs a gmail so you must create one for them or help them but if they have one do not worry about this [link](https://www.youtube.com/watch?v=NXOCa9kzQsk)**
 
-**If ninjas need an github account and you don't know how to set that up for them referr to this [link](https://www.youtube.com/watch?v=tTvLl138ky4)**
+**If ninjas need a github account and you don't know how to set that up for them refer to this [link](https://www.youtube.com/watch?v=tTvLl138ky4)**
 
 ## Joining Github Classroom
 
@@ -22,6 +22,8 @@ you will then be met with this screen just keep clicking the refresh button unti
 **Once in Github desktop you will need to log in to their github account on their and then create a new respository**
 ![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/2022-06-11%20(5).png)
 **After doing that it will show you this screen so name the project what the ninja wants to name it then make sure to click the Git ignore option and find unity it is sorted alphabetically**
+
+
 ![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/2022-06-11%20(9).png)
 >note they will have to do this for all their projects so make sure they are aware of what they need to do
 
@@ -40,7 +42,7 @@ you will then be met with this screen just keep clicking the refresh button unti
 ![image](https://blog.terresquall.com/wp-content/uploads/2020/04/cant-find-git-repository.jpg)
 
 **click the locate button and then you must find the unity file they made and select it as the directory**
-**after that it should look roughply like this depending on how the project**
+**after that it should look roughply like this depending on the project**
 
 ![image](https://blog.terresquall.com/wp-content/uploads/2020/04/unity-git-repository.jpg)
 
