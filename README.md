@@ -10,3 +10,5 @@
 
 **now they need to join the github classroom which can be done with this [link](https://classroom.github.com/a/dPDt0Weq) and they must create their own repository**
 
+you will then be met with this screen just keep clicking the refresh button until it changes 
+![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/1st%20image%20for%20steps.jpg)
