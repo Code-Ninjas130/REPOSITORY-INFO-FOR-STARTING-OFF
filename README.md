@@ -21,3 +21,4 @@ you will then be met with this screen just keep clicking the refresh button unti
 
 **Once in Github desktop you will need to log in to their github account on their and then create a new respository**
 ![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/2022-06-11%20(5).png)
+**After doing that it will show you this screen so name the project what the ninja wants to name it then make sure to click the Git ignore option and find unity it is sorted alphabetically**
