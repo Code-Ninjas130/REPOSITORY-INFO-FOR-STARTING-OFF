@@ -12,3 +12,5 @@
 
 you will then be met with this screen just keep clicking the refresh button until it changes 
 ![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/1st%20image%20for%20steps.jpg)
+
+**You will then see a new page where it will prompt you to get to click a link make sure to click that so it takes you to their repository**
