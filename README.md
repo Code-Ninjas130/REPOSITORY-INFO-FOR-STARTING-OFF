@@ -24,3 +24,9 @@ you will then be met with this screen just keep clicking the refresh button unti
 **After doing that it will show you this screen so name the project what the ninja wants to name it then make sure to click the Git ignore option and find unity it is sorted alphabetically**
 ![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/2022-06-11%20(9).png)
 >note they will have to do this for all their projects so make sure they are aware of what they need to do
+
+## Now to merge unity and github
+
+**so now after this they will go to unity hub and create a new project and add their assets that the guide says for them to add**
+Then add the github files to the project
+![image](https://blog.terresquall.com/wp-content/uploads/2020/04/unity-show-in-explorer-1024x508.jpg)
