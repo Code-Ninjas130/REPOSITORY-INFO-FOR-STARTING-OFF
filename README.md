@@ -14,3 +14,7 @@ you will then be met with this screen just keep clicking the refresh button unti
 ![image](https://github.com/Code-Ninjas130/REPOSITORY-INFO-FOR-STARTING-OFF/blob/main/imageFolder/1st%20image%20for%20steps.jpg)
 
 **You will then see a new page where it will prompt you to get to click a link make sure to click that so it takes you to their repository**
+
+## For the nest steps you need to have Github desktop installed
+
+**if it is not installed on the pc already this [link](https://desktop.github.com/) will direct you to the ewebsite for the download**
