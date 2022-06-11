@@ -28,5 +28,9 @@ you will then be met with this screen just keep clicking the refresh button unti
 ## Now to merge unity and github
 
 **so now after this they will go to unity hub and create a new project and add their assets that the guide says for them to add**
-Then add the github files to the project
+**Then add the github files to the project**
 ![image](https://blog.terresquall.com/wp-content/uploads/2020/04/unity-show-in-explorer-1024x508.jpg)
+
+**make sure to move the git hub files into it fully so that they are not in the preivous folder**
+
+![image](https://blog.terresquall.com/wp-content/uploads/2020/04/moving-git-files-into-unity-project.jpg)
